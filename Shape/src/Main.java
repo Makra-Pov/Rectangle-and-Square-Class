@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-    double l=10;
+    double l=20;
     double w=15;
     double side=20;
     Rectangle r =new Rectangle(w,l);
